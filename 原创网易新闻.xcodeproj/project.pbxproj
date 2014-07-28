@@ -32,6 +32,7 @@
 		189EE6261982513500A86A38 /* HMReadingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 189EE6251982513500A86A38 /* HMReadingViewController.m */; };
 		18B146A31985D57A007AEE7E /* HMLeftMenuButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B146A21985D57A007AEE7E /* HMLeftMenuButton.m */; };
 		18B146A61985D9F1007AEE7E /* HMNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 18B146A51985D9F1007AEE7E /* HMNavigationBar.m */; };
+		18E197CC1985DDC700016888 /* HMAdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18E197CB1985DDC700016888 /* HMAdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,8 @@
 		18B146A21985D57A007AEE7E /* HMLeftMenuButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMLeftMenuButton.m; sourceTree = "<group>"; };
 		18B146A41985D9F1007AEE7E /* HMNavigationBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMNavigationBar.h; sourceTree = "<group>"; };
 		18B146A51985D9F1007AEE7E /* HMNavigationBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMNavigationBar.m; sourceTree = "<group>"; };
+		18E197CA1985DDC700016888 /* HMAdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HMAdViewController.h; sourceTree = "<group>"; };
+		18E197CB1985DDC700016888 /* HMAdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HMAdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -218,6 +221,8 @@
 				189EE61C1982447200A86A38 /* HMNewsViewController.m */,
 				189EE6241982513500A86A38 /* HMReadingViewController.h */,
 				189EE6251982513500A86A38 /* HMReadingViewController.m */,
+				18E197CA1985DDC700016888 /* HMAdViewController.h */,
+				18E197CB1985DDC700016888 /* HMAdViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -358,6 +363,7 @@
 				189EE6201982455100A86A38 /* HMTitleView.m in Sources */,
 				18271CB31982423B0080955F /* UIImage+Extension.m in Sources */,
 				18B146A31985D57A007AEE7E /* HMLeftMenuButton.m in Sources */,
+				18E197CC1985DDC700016888 /* HMAdViewController.m in Sources */,
 				189EE6261982513500A86A38 /* HMReadingViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
